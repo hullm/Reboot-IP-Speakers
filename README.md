@@ -1,2 +1,2 @@
 # Reboot-IP-Speakers
-RebootSpeakers.py will reboot all the IP speakers in our school.  We can grep the file for a room and it will display the IP of the switch and the port number.  Then you can use RebootPort.py with the IP of the switch and the port as parameters and to reboot a single speaker.
+RebootSpeakers.py will reboot all the IP speakers in our school.  We can grep the file for a room and it will display the IP of the switch and the port number.  Then we can use RebootPort.py with the IP of the switch and the port as parameters and to reboot a single speaker.

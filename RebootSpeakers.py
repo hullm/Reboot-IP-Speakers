@@ -74,6 +74,7 @@ print(output)
 
 restart_port("Gi1/0/7") # Room 218 Band Room Door - .3
 restart_port("Gi1/0/10") # Room 205 English 9 - .3
+restart_port("Gi1/0/11") # HS Maintenance - .3
 restart_port("Gi1/0/14") # Room 203 Spanish - .3
 restart_port("Gi1/0/15") # Room 207 English 10 - .3
 restart_port("Gi1/0/18") # Room 108 Math - .3

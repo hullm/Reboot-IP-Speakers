@@ -64,7 +64,7 @@ print(output)
 
 restart_port("Gi1/0/4") # Guidance Meeting Room - .2
 restart_port("Gi1/0/5") # Room 127C Office SP - .2
-restart_port("Gi1/0/10") # Room 216 SS 11 - .1
+restart_port("Gi1/0/10") # Room 216 SS 11 - .2
 restart_port("Gi1/0/39") # Superintendent Secretary - .2
 
 connect_to("LGHS-MDF-2960S48-02") # HS Server Room
@@ -141,7 +141,7 @@ restart_port("Gi3/0/25") # Library Curriculum Coordinator - .41
 restart_port("Gi3/0/29") # Library Work Room - .41
 restart_port("Gi3/0/35") # Cafeteria Cashier Wall - .41
 
-connect_to("LGHS-IDF5-2960S48-01") # Room 210 - Art Room - .41
+connect_to("LGHS-IDF5-2960S48-01") # Room 210 - Art Room
 remote_conn = remote_conn_pre.invoke_shell()
 output = remote_conn.recv(1000)
 print(output)
@@ -184,12 +184,12 @@ remote_conn = remote_conn_pre.invoke_shell()
 output = remote_conn.recv(1000)
 print(output)
 
-restart_port("Gi1/0/8") # Room 3 Physics and Chemistry
-restart_port("Gi1/0/12") # Room 1 Special Ed
-restart_port("Gi1/0/14") # Room 10 Science
-restart_port("Gi1/0/22") # Room 5 Science 8
-restart_port("Gi1/0/32") # Room 7 Earth Science
-restart_port("Gi1/0/36") # Room 4 Biology
-restart_port("Gi1/0/41") # Room 8 Science
-restart_port("Gi1/0/45") # Room 2 Special Ed
-restart_port("Gi1/0/48") # Room 9 Science 7
+restart_port("Gi1/0/8") # Room 3 Physics and Chemistry - .71
+restart_port("Gi1/0/12") # Room 1 Special Ed - .71
+restart_port("Gi1/0/14") # Room 10 Science - .71
+restart_port("Gi1/0/22") # Room 5 Science 8 - .71
+restart_port("Gi1/0/32") # Room 7 Earth Science - .71
+restart_port("Gi1/0/36") # Room 4 Biology - .71
+restart_port("Gi1/0/41") # Room 8 Science - .71
+restart_port("Gi1/0/45") # Room 2 Special Ed - .71
+restart_port("Gi1/0/48") # Room 9 Science 7 - .71

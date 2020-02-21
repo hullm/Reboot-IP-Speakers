@@ -1,0 +1,160 @@
+"10.15.1.7" "GigabitEthernet1/0/13" - Alumni Room
+"10.15.1.41" "GigabitEthernet2/0/43" - Auditorium
+"10.15.1.31" "GigabitEthernet1/0/20" - Boys Locker Room
+"10.15.1.41" "GigabitEthernet3/0/35" - Cafeteria Cashier Wall
+"10.15.1.7" "GigabitEthernet1/0/21" - Copy Room
+"10.15.1.31" "GigabitEthernet1/0/19" - Girls Locker Room
+"10.15.1.2" "GigabitEthernet1/0/4" - Guidance Meeting Room
+"10.15.1.31" "GigabitEthernet1/0/2" - Gym
+"10.15.1.3" "GigabitEthernet1/0/28" - Hallway Clock Outside Nurse
+"10.15.1.7" "GigabitEthernet1/0/15" - Health Suite
+"10.15.1.3" "GigabitEthernet1/0/11" - HS Maintenance
+"10.15.1.41" "GigabitEthernet3/0/25" - Library Curriculum Coordinator
+"10.15.1.41" "GigabitEthernet3/0/29" - Library Work Room
+"10.15.1.31" "GigabitEthernet1/0/21" - Locker Room Hallway
+"10.15.1.41" "GigabitEthernet2/0/6" - Resource Center Alumni Wall
+"10.15.1.41" "GigabitEthernet2/0/40" - Resource Center Circulation Desk
+"10.15.1.41" "GigabitEthernet2/0/39" - Resource Center Comp Lab Wall
+"10.15.1.71" "GigabitEthernet1/0/12" - Room 1 Special Ed
+"10.15.1.71" "GigabitEthernet1/0/14" - Room 10 Science
+"10.15.1.62" "GigabitEthernet1/0/13" - Room 100 Office
+"10.15.1.63" "GigabitEthernet1/0/23" - Room 101 Math 8
+"10.15.1.62" "GigabitEthernet1/0/16" - Room 102 English 8
+"10.15.1.62" "GigabitEthernet1/0/18" - Room 103 Social Studies 8
+"10.15.1.7" "GigabitEthernet1/0/12" - Room 104 Spanish
+"10.15.1.7" "GigabitEthernet1/0/11" - Room 105 SP ED
+"10.15.1.7" "GigabitEthernet1/0/10" - Room 106 Wellness Room
+"10.15.1.51" "GigabitEthernet1/0/27" - Room 107 Guidance
+"10.15.1.3" "GigabitEthernet1/0/18" - Room 108 Math
+"10.15.1.3" "GigabitEthernet1/0/20" - Room 109 English
+"10.15.1.12" "GigabitEthernet1/0/11" - Room 11 Technology
+"10.15.1.51" "GigabitEthernet1/0/25" - Room 110 Entrance
+"10.15.1.52" "GigabitEthernet1/0/22" - Room 110 Social
+"10.15.1.41" "GigabitEthernet2/0/38" - Room 110C Auditorium Lobby
+"10.15.1.41" "GigabitEthernet2/0/10" - Room 111A Social Worker
+"10.15.1.41" "GigabitEthernet2/0/12" - Room 111B CSE
+"10.15.1.41" "GigabitEthernet1/0/24" - Room 112 Art
+"10.15.1.41" "GigabitEthernet2/0/42" - Room 113 Computer Lab
+"10.15.1.63" "GigabitEthernet1/0/24" - Room 113B 8th Grade
+"10.15.1.7" "GigabitEthernet1/0/35"	Room 114 SP ED
+"10.15.1.41" "GigabitEthernet2/0/14" - Room 115 SP ED
+"10.15.1.41" "GigabitEthernet2/0/36" - Room 116 Home/Careers
+"10.15.1.41" "GigabitEthernet2/0/28" - Room 117 Office
+"10.15.1.41" "GigabitEthernet2/0/33" - Room 117 SP ED
+"10.15.1.41" "GigabitEthernet2/0/35" - Room 118 SP ED
+"10.15.1.12" "GigabitEthernet1/0/7" - Room 12 Technology
+"10.15.1.21" "GigabitEthernet1/0/7" - Room 121 HS Main Office
+"10.15.1.7" "GigabitEthernet1/0/18" - Room 121A Attendance
+"10.15.1.21" "GigabitEthernet1/0/32" - Room 122 Business Office
+"10.15.1.3" "GigabitEthernet1/0/47" - Room 125 Faculty
+"10.15.1.21" "GigabitEthernet1/0/22" - Room 127 Guidance
+"10.15.1.21" "GigabitEthernet1/0/18" - Room 127B Office JP
+"10.15.1.2" "GigabitEthernet1/0/5" - Room 127C Office SP
+"10.15.1.12" "GigabitEthernet1/0/4" - Room 13 CAD
+"10.15.1.12" "GigabitEthernet1/0/10" - Room 14 Resource
+"10.15.1.71" "GigabitEthernet1/0/45" - Room 2 Special Ed
+"10.15.1.63" "GigabitEthernet1/0/22" - Room 200 Business
+"10.15.1.31" "GigabitEthernet1/0/16" - Room 2000 Fitness
+"10.15.1.31" "GigabitEthernet1/0/18" - Room 2001 Fitness
+"10.15.1.63" "GigabitEthernet1/0/20" - Room 201 Business
+"10.15.1.63" "GigabitEthernet1/0/21" - Room 202 French
+"10.15.1.3" "GigabitEthernet1/0/14" - Room 203 Spanish
+"10.15.1.7" "GigabitEthernet1/0/8" - Room 204 SS 12
+"10.15.1.3" "GigabitEthernet1/0/10" - Room 205 English 9
+"10.15.1.7" "GigabitEthernet1/0/7" - Room 206 SS 10
+"10.15.1.3" "GigabitEthernet1/0/15" - Room 207 English 10
+"10.15.1.7" "GigabitEthernet1/0/6" - Room 208 SS 9
+"10.15.1.7" "GigabitEthernet1/0/9" - Room 209 Math
+"10.15.1.51" "GigabitEthernet1/0/13" - Room 210/211 Graphics
+"10.15.1.7" "GigabitEthernet1/0/39" - Room 211 Faculty
+"10.15.1.52" "GigabitEthernet1/0/47" - Room 212 Math
+"10.15.1.52" "GigabitEthernet1/0/23" - Room 213 Math
+"10.15.1.7" "GigabitEthernet1/0/29" - Room 214 Spanish
+"10.15.1.7" "GigabitEthernet1/0/20" - Room 215 English 11
+"10.15.1.2" "GigabitEthernet1/0/10" - Room 216 SS 11
+"10.15.1.7" "GigabitEthernet1/0/22" - Room 217 Chorus
+"10.15.1.3" "GigabitEthernet1/0/7" - Room 218 Band Room Door
+"10.15.1.71" "GigabitEthernet1/0/8" - Room 3 Physics and Chemistry
+"10.15.1.3" "GigabitEthernet1/0/38" - Room 300 Art Studio
+"10.15.1.3" "GigabitEthernet1/0/40" - Room 301 Math
+"10.15.1.71" "GigabitEthernet1/0/36" - Room 4 Biology
+"10.15.1.71" "GigabitEthernet1/0/22" - Room 5 Science 8
+"10.15.1.71" "GigabitEthernet1/0/32" - Room 7 Earth Science
+"10.15.1.71" "GigabitEthernet1/0/41" - Room 8 Science
+"10.15.1.71" "GigabitEthernet1/0/48" - Room 9 Science 7
+"10.15.1.7" "GigabitEthernet1/0/23" - Room C-1 Vice Principal
+"10.15.1.41" "GigabitEthernet2/0/44" - Room K-1 Kitchen By Door
+"10.15.1.7" "GigabitEthernet1/0/1" - Room P-1 Principal
+"10.15.1.2" "GigabitEthernet1/0/39" - Superintendent Secretary
+"10.15.1.7" "GigabitEthernet1/0/4" - JrSr Zone 1 Hallways
+"10.15.1.7" "GigabitEthernet1/0/5" - JrSr Zone 2 Library
+"10.15.1.31" "GigabitEthernet1/0/3" - JrSr Zone 3 Gymnasium
+"10.15.101.4" "GigabitEthernet1/0/23" - Cafeteria Conference Room
+"10.15.101.4" "GigabitEthernet1/0/21" - Kitchen
+"10.15.101.4" "GigabitEthernet1/0/38" - ES Main Office
+"10.15.101.4" "GigabitEthernet1/0/38" - ES Copy Room
+"10.15.101.23" "GigabitEthernet1/0/9" - ES Music
+"10.15.101.4" "GigabitEthernet1/0/18" - ES Band
+"10.15.101.4" "GigabitEthernet1/0/14" - K TA
+"10.15.101.4" "GigabitEthernet1/0/15" - K401
+"10.15.101.23" "GigabitEthernet1/0/2" - K402
+"10.15.101.23" "GigabitEthernet1/0/1" - K403
+"10.15.101.4" "GigabitEthernet1/0/17" - K404
+"10.15.101.23" "GigabitEthernet1/0/6" - K405
+"10.15.101.4" "GigabitEthernet1/0/13" - After School
+"10.15.101.4" "GigabitEthernet1/0/5" - Primary Entrance
+"10.15.101.4" "GigabitEthernet1/0/6" - Primary Left Room
+"10.15.101.12" "GigabitEthernet1/0/36" - Primary Right Room
+"10.15.101.4" "GigabitEthernet1/0/43" - Primary P301
+"10.15.101.4" "GigabitEthernet1/0/1" - Primary P302
+"10.15.101.2" "GigabitEthernet1/0/38" - Primary P303
+"10.15.101.4" "GigabitEthernet1/0/7" - Primary P304
+"10.15.101.4" "GigabitEthernet1/0/24" - Primary P305
+"10.15.101.2" "GigabitEthernet1/0/34" - Primary P306
+"10.15.101.4" "GigabitEthernet1/0/11" - Primary P307
+"10.15.101.4" "GigabitEthernet1/0/9" - Primary P308
+"10.15.101.4" "GigabitEthernet1/0/12" - OT PT OTPT
+"10.15.101.12" "GigabitEthernet1/0/5" - Playroom
+"10.15.101.12" "GigabitEthernet1/0/2" - HP High Performance
+"10.15.101.12" "GigabitEthernet1/0/8" - Int1 Entrance
+"10.15.101.12" "GigabitEthernet1/0/6" - Int1 Left Room
+"10.15.101.12" "GigabitEthernet1/0/9" - Int1 Right Room
+"10.15.101.12" "GigabitEthernet1/0/22" - Int1 O201
+"10.15.101.12" "GigabitEthernet1/0/23" - Int1 O202
+"10.15.101.12" "GigabitEthernet1/0/24" - Int1 O203
+"10.15.101.12" "GigabitEthernet1/0/25" - Int1 O204
+"10.15.101.12" "GigabitEthernet1/0/26" - Int1 O205
+"10.15.101.12" "GigabitEthernet1/0/27" - Int1 O206
+"10.15.101.12" "GigabitEthernet1/0/28" - Int1 O207
+"10.15.101.12" "GigabitEthernet1/0/29" - Int1 O208
+"10.15.101.12" "GigabitEthernet1/0/29" - Int1 Breakout Room
+"10.15.101.12" "GigabitEthernet1/0/38" - Speech Main Room
+"10.15.101.12" "GigabitEthernet1/0/21" - Speech Price
+"10.15.101.12" "GigabitEthernet1/0/37" - ES Guidance
+"10.15.101.12" "GigabitEthernet1/0/10" - Social Worker
+"10.15.101.2" "GigabitEthernet1/0/44" - ES Faculty Room
+"10.15.101.12" "GigabitEthernet1/0/11" - Int2 Breakout Room
+"10.15.101.12" "GigabitEthernet1/0/31" - Int2 Entrance
+"10.15.101.12" "GigabitEthernet1/0/12" - Int2 Left Room
+"10.15.101.12" "GigabitEthernet1/0/7" - Int2 Right Room
+"10.15.101.12" "GigabitEthernet1/0/16" - Int2 T101
+"10.15.101.12" "GigabitEthernet1/0/15" - Int2 T102
+"10.15.101.12" "GigabitEthernet1/0/17" - Int2 T103
+"10.15.101.12" "GigabitEthernet1/0/18" - Int2 T104
+"10.15.101.12" "GigabitEthernet1/0/19" - Int2 T105
+"10.15.101.12" "GigabitEthernet1/0/20" - Int2 T106
+"10.15.101.12" "GigabitEthernet1/0/13" - Int2 T107
+"10.15.101.12" "GigabitEthernet1/0/14" - Int2 T108
+"10.15.101.12" "GigabitEthernet1/0/22" - ES Nurse
+"10.15.101.23" "GigabitEthernet1/0/10" - ES Gym Boys
+"10.15.101.23" "GigabitEthernet1/0/11" - ES Gym Girls
+"10.15.101.23" "GigabitEthernet1/0/7" - Lunch Room
+"10.15.101.4" "GigabitEthernet1/0/20" - Little Theater
+"10.15.101.4" "GigabitEthernet1/0/19" - ES Lobby
+"10.15.101.23" "GigabitEthernet1/0/5" - ES Library
+"10.15.101.23" "GigabitEthernet1/0/4" - ES Library Breakout Room
+"10.15.101.4" "GigabitEthernet1/0/27" - ES Zone 1 - Hallways
+"10.15.101.4" "GigabitEthernet1/0/29" - ES Zone 2 - Outside
+"10.15.101.4" "GigabitEthernet1/0/31" - ES Zone 3 - Cafeteria
+"10.15.101.4" "GigabitEthernet1/0/33" - ES Zone 4 - Library
+"10.15.101.4" "GigabitEthernet1/0/35" - ES Zone 5 - Outside

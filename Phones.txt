@@ -1,0 +1,181 @@
+"LGHS-IDF7-2960S48-01" "Gi1/0/19" - Round, Nicholas - 1001
+"LGHS-IDF7-2960S48-01" "Gi1/0/40" - Mondella, Christopher - 1002
+"LGHS-IDF7-2960S48-01" "Gi1/0/6" - Brown, William - 1003
+"LGHS-IDF7-2960S48-01" "Gi1/0/3" - Dempsey, Cheri - 1004
+"LGHS-IDF7-2960S48-01" "Gi1/0/5" - Burrall, Kevin - 1005
+"LGHS-IDF7-2960S48-01" "Gi1/0/16" - Darby, Tammy - 1007
+"LGHS-IDF7-2960S48-01" "Gi1/0/46" - Spath, Robert - 1008
+"LGHS-IDF7-2960S48-01" "Gi1/0/44" - McGrath, Nicole - 1009
+"LGHS-IDF7-2960S48-01" "Gi1/0/17" - Wells, Roger - 1010
+"HS-IDF1-2960X48-01" "Gi1/0/9" - Stroebel, Lawerence - 1011
+"HS-IDF1-2960X48-01" "Gi1/0/39" - Stroebel, Lawerence - 1011
+"HS-IDF1-2960X48-01" "Gi1/0/2" - Stroebel, Lawerence - 1011
+"HS-IDF1-2960X48-01" "Gi1/0/3" - CAD Room - 1012
+"HS-IDF3-2960X24-01" "Gi1/0/1" - MS/HS Gym - 1013
+"HS-IDF1-2960X48-01" "Gi1/0/5" - Guidetti, Steven - 1014
+"HS-MDF-2960x-06" "Gi1/0/27" - Student Phone - 1018
+"HS-IDF4-2960X-Stack" "Gi3/0/41" - Auditorium lobby - 1020
+"LGHS-MDF-2960S48-02" "Gi1/0/24" - Hladik, Ana - 1100
+"LGHS-IDF6-2960S24-02" "Gi1/0/19" - Armstrong, Jedidiah - 1101
+"LGHS-IDF6-2960S24-02" "Gi1/0/20" - Fournier, Michelle - 1102
+"LGHS-IDF6-2960S24-02" "Gi1/0/15" - Bennett, Jeffrey - 1103
+"LGHS-MDF-2960S48-02" "Gi1/0/45" - Hendley, Lisa - 1104
+"HS-MDF-2960x-06" "Gi1/0/3" - Lynch, Abigail - 1105
+"HS-MDF-2960x-06" "Gi1/0/19" - Wellness Room - 1106
+"LGHS-IDF5-2960S48-01" "Gi1/0/32" - Dell'olio, Jennifer - 1107
+"LGES-IDF1-2960S48-01" "Gi1/0/46" - Dell'olio, Jennifer - 1107
+"LGHS-MDF-2960S48-03" "Gi1/0/6" - Seymour, Ryan - 1108
+"LGHS-MDF-2960S48-03" "Gi1/0/13" - Luckenbaugh, Greg - 1109
+"LGHS-IDF5-2960S48-02" "Gi1/0/21" - Canale, Katie - 1110
+"HS-IDF4-2960X-Stack" "Gi2/0/22" - Detention - 1111
+"LGHS-MDF-2960S48-02" "Gi1/0/35" - Connolly, Erin - 1112
+"HS-IDF4-2960X-Stack" "Gi1/0/26" - Connolly, Erin - 1112
+"LGHS-MDF-2960S48-02" "Gi1/0/8" - Nolan, Sue - 1114
+"HS-IDF4-2960X-Stack" "Gi2/0/16" - Howe, Christina - 1115
+"HS-IDF4-2960X-Stack" "Gi2/0/34" - Long, Jill - 1116
+"HS-IDF4-2960X-Stack" "Gi2/0/31" - Chapman, Katie - 1117
+"HS-IDF4-2960X-Stack" "Gi2/0/37" - McCullen, Pamela - 1118
+"LGHS-MDF-2960S48-02" "Gi1/0/16" - Guidance Conference - 1126
+"HS-IDF4-2960X-Stack" "Gi1/0/22" - Hart, Bonnie - 1150
+"HS-IDF4-2960X-Stack" "Gi2/0/26" - Back Stage - 1151
+"HS-IDF4-2960X-Stack" "Gi3/0/31" - Auditorium - 1152
+"HS-IDF4-2960X-Stack" "Gi3/0/37" - Cafeteria - 1153
+"HS-IDF1-2960X48-01" "Gi1/0/6" - Board Room - 1163
+"HS-IDF2-2960X48-1" "Gi1/0/20" - Sicard, Lindy - 1201
+"LGHS-MDF-2960S48-01" "Gi1/0/2" - Gipson, Maryann - 1202
+"HS-IDF2-2960X48-1" "Gi1/0/12" - Cocozza, Francis - 1203
+"HS-MDF-2960x-06" "Gi1/0/2" - Palmer, Rene - 1204
+"HS-MDF-2960x-06" "Gi1/0/28" - Varney, Michael - 1205
+"HS-IDF2-2960X48-1" "Gi1/0/25" - Duell, Nancy - 1206
+"LGHS-MDF-2960S48-01" "Gi1/0/24" - Barton, Sarah - 1207
+"HS-IDF1-2960X48-01" "Gi1/0/42" - Rutnik, Lynne - 1208
+"LGHS-MDF-2960S48-02" "Gi1/0/23" - Bearor, Jamie - 1209
+"HS-MDF-2960x-06" "Gi1/0/42" - Kloepfer, Jane - 1210
+"LGES-MDF-2960S48-01" "Gi1/0/19" - Fullen, Natalie - 1211
+"HS-IDF2-2960X48-1" "Gi1/0/14" - Forjone, Lynne - 1212
+"HS-MDF-2960x-06" "Gi1/0/33" - Jr/Sr Faculty Room - 1213
+"LGHS-MDF-4510" "Gi1/9" - LKG MSHS Cafe bell - 1214
+"LGHS-MDF-2960S48-02" "Gi1/0/34" - DeStefanis, Jeff - 1214
+"HS-IDF4-2960X-Stack" "Gi3/0/39" - DeStefanis, Jeff (K) - 1214
+"HS-MDF-2960x-06" "Gi1/0/36" - Seguljic, Nicole - 1215
+"LGHS-IDF6-2960S24-02" "Gi1/0/12" - Wilson, Kemm - 1216
+"HS-IDF2-2960X48-1" "Gi1/0/27" - Becker, Carrie - 1217
+"LGHS-MDF-2960S48-03" "Gi1/0/27" - Clark, Stephen - 1218
+"LGHS-IDF7-2960S48-01" "Gi1/0/37" - Clothier, Rick - 1219
+"HS-IDF4-2960X-Stack" "Gi2/0/19" - Coker, Megan - 1220
+"ES-MDF-2960X-01" "Gi1/0/45" - Coker, Megan",1220
+"HS-IDF3-2960X24-01" "Gi1/0/9" - Manny, Kyle - 1221
+"HS-IDF4-2960X-Stack" "Gi3/0/5" - Davis, Dane - 1222
+"HS-MDF-2960x-06" "Gi1/0/16" - HS Faculty Lounge - 1223
+"HS-IDF2-2960X48-1" "Gi1/0/9" - Preuss, Steve - 1224
+"HS-MDF-2960x-06" "Gi1/0/44" - Perrigo, James - 1225
+"HS-MDF-2960x-06" "Gi1/0/46" - Crisler, Kristen - 1226
+"LGHS-MDF-2960S48-01" "Gi1/0/3" - Mondella, Chris - 1227
+"HS-IDF2-2960X48-1" "Gi1/0/5" - HS Main Office Student Phone - 1228
+"HS-IDF2-2960X48-1" "Gi1/0/15" _ Smith, Garrett - 1229
+"HS-IDF4-2960X-Stack" "Gi1/0/5" - Olson, Sarah - 1230
+"LGHS-IDF7-2960S48-01" "Gi1/0/20" - Room 006 - 1232
+"ES-MDF-2960X-01" "Gi1/0/47" - Hull, Matt - ES - 1234
+"HS-IDF4-2960X-Stack" "Gi3/0/13" - Hull, Matt - JrSr - 1234
+"HS-IDF3-2960X24-01" "Gi1/0/17" - Weight Room - 1240
+"HS-IDF3-2960X24-01" "Gi1/0/15" - Weight Room Desk - 1240
+"LGHS-MDF-2960S48-02" "Gi1/0/37" - Main Office Spare - 1241
+"LGHS-IDF6-2960S24-02" "Gi1/0/23" - Hoffman, Brenda - 2200
+"LGHS-IDF6-2960S24-02" "Gi1/0/21"Breslin, Karen - 2201
+"LGHS-IDF6-2960S24-02" "Gi1/0/17,"Martineau, Nathalie - 2202
+"LGHS-MDF-2960S48-02" "Gi1/0/5" - Cornell, Jennifer - 2203
+"LGHS-MDF-2960S48-02" "Gi1/0/43" - Ross, Carmen - 2204
+"LGHS-MDF-2960S48-02" "Gi1/0/13" - Smith, Carolyn - 2205
+"LGHS-MDF-2960S48-02" "Gi1/0/1" - Elder, Michelle - 2206
+"LGHS-MDF-2960S48-02" "Gi1/0/32" - VanVlack, Audrey - 2207
+"LGHS-MDF-2960S48-02" "Gi1/0/30" - Tallon, Trista - 2208
+"HS-MDF-2960x-06" "Gi1/0/32" - Buck, Nora - 2209
+"LGHS-MDF-2960S48-01" "Gi1/0/40" - Casey, Katherine - 2210
+"LGHS-MDF-2960S48-02" "Gi1/0/25" - Casey, Katherine (W) - 2210
+"LGHS-IDF5-2960S48-02" "Gi1/0/24" - Greene, Vicky - 2212
+"LGHS-IDF5-2960S48-01" "Gi1/0/24" - Everts, Kimberly - 2213
+"HS-MDF-2960x-06" "Gi1/0/25" - Cooper, Emily - 2214
+"HS-MDF-2960x-06" "Gi1/0/30" - Elder, William - 2215
+"LGHS-MDF-2960S48-01" "Gi1/0/6" - Tefft, Robert - 2216
+"LGHS-MDF-2960S48-02" "Gi1/0/2" - Alecci, John - 2217
+"LGHS-MDF-2960S48-03" "Gi1/0/30" - Baker, Amy - 2218
+"HS-IDF3-2960X24-01" "Gi1/0/11" - Bleibrey, Mark - 2219
+"HS-IDF3-2960X24-01" "Gi1/0/6" - Collins, Kelly - 2220
+"HS-MDF-2960x-06" "Gi1/0/31" - Office, Band - 2257
+"HS-IDF1-2960X48-01" "Gi1/0/36" - Gengel, Philip - 2258
+"LGHS-MDF-2960S48-02" "Gi1/0/27" - Alumni Room - 2259
+"HS-MDF-2960x-06" "Gi1/0/24" - LaFond, Mark - 3000
+"HS-MDF-2960x-06" "Gi1/0/38" - Niedermeyer, Michelle - 3300
+"LGHS-MDF-2960S48-02" "Gi1/0/39" - Johnston, Jennifer - 3301
+"LGES-MDF-2960S48-01" "Gi1/0/3" - Fox, Lisa - 4000
+"LGES-MDF-2960S48-01" "Gi1/0/18" - Polimeni, Kimberly - 4001
+"LGES-MDF-2960S48-01" "Gi1/0/7" - Mondschein, Ginny - 4004
+"LGES-MDF-2960S48-01" "Gi1/0/43" - Moellman, Ann - 4006
+"LGES-MDF-2960S48-01" "Gi1/0/33" - Student Phone - 4007
+"LGES-MDF-2960S48-01" "Gi1/0/11" - File Room - 4009
+"LGES-MDF-2960S48-01" "Gi1/0/2" - Conway, James - 4010
+"LGES-MDF-2960S48-01" "Gi1/0/20" - Helms, Faith Desk - 4017
+"LGES-MDF-2960S48-01" "Gi1/0/10" - Helms, Faith Back Office 2 - 4017
+"ES-MDF-2960X-01" "Gi1/0/30" - Helms, Faith Back Office - 4017
+"LGES-IDF1-2960S48-01" "Gi1/0/23" - ES Staff Lounge - 4020
+"LGES-IDF2-2960S48-01" "Gi1/0/13" - Denton, Karl - 4050
+"LGES-MDF-2960S48-01" "Gi1/0/9" - Gunther, Sandy - 4051
+"LGES-MDF-2960S48-01" "Gi1/0/46" - Cafeteria - 4052
+"LGES-MDF-2960S48-01" "Gi1/0/41" - Cafeteria Conference - 4053
+"LGES-IDF1-2960S48-01" "Gi1/0/38" - Hoover, Erik - 4101
+"LGES-IDF1-2960S48-01" "Gi1/0/35" - 4102 - 4102
+"LGES-IDF1-2960S48-01" "Gi1/0/48" - Buckley, Kelly - 4103
+"LGES-IDF1-2960S48-01" "Gi1/0/47" - Crotty, Jeff - 4104
+"LGES-IDF1-2960S48-02" "Gi1/0/3" - Lewis, Jonathan - 4105
+"LGES-IDF1-2960S48-02" "Gi1/0/4" - Butler, Mathew - 4106
+"LGES-IDF1-2960S48-01" "Gi1/0/19" - Spring, Kerri - 4107
+"LGES-IDF1-2960S48-02" "Gi1/0/1" - Catarelli, Kelly - 4108
+"LGES-IDF1-2960S48-02" "Gi1/0/34" - 4109 - 4109
+"LGES-IDF1-2960S48-01" "Gi1/0/39" - Intermediate 2 Breakout Rm - 4110
+"LGES-IDF1-2960S48-01" "Gi1/0/24" - Gershen, Ashley - 4201
+"LGES-IDF1-2960S48-01" "Gi1/0/29" - Aspland, Kathy - 4202
+"LGES-IDF1-2960S48-01" "Gi1/0/30" - Allen, Jeffrey - 4203
+"LGES-IDF1-2960S48-01" "Gi1/0/37" - Holderman, Emily - 4204
+"LGES-IDF1-2960S48-01" "Gi1/0/32" - Lindsay, Lisa - 4205
+"LGES-IDF1-2960S48-01" "Gi1/0/33" - Quillinan/Kelly/Galkiewicz - 4206
+"LGES-IDF1-2960S48-01" "Gi1/0/31" - Drapeau, Alyssa - 4207
+"LGES-IDF1-2960S48-01" "Gi1/0/36" - Thomsen, Brian - 4208
+"LGES-IDF1-2960S48-01" "Gi1/0/34" - 4209 - 4209
+"LGES-IDF1-2960S48-01" "Gi1/0/20" - Bizan, Geoff - 4210
+"ES-MDF-2960X-01" "Gi1/0/28" - Alex Poetzsch - 4301
+"ES-MDF-2960X-01" "Gi1/0/40" - Gearing, Cassamira - 4302
+"LGES-MDF-2960S48-01" "Gi1/0/45" - Dudla, Kellie - 4303
+"LGES-MDF-2960S48-01" "Gi1/0/42" - Borie, Nicole - 4304
+"LGES-MDF-2960S48-01" "Gi1/0/36" - Zehr, Anna - 4305
+"LGES-MDF-2960S48-01" "Gi1/0/39" - Kelly, Krista - 4306
+"ES-MDF-2960X-01" "Gi1/0/42" - McIntosh, Morgan - 4307
+"ES-MDF-2960X-01" "Gi1/0/41" - Abrantes/Jaeger - 4308
+"LGES-MDF-2960S48-01" "Gi1/0/25" - 4309 - 4309
+"LGES-MDF-2960S48-01" "Gi1/0/24" - YMCA, Afterschool Rm - 4310
+"LGES-IDF2-2960S48-01" "Gi1/0/9" - Bennett, Kim - 4401
+"LGES-IDF2-2960S48-01" "Gi1/0/22" - Hendry, Susan - 4402
+"LGES-IDF2-2960S48-01" "Gi1/0/21" - 4403 - 4403
+"LGES-IDF2-2960S48-01" "Gi1/0/39" - Bennett, Kim - 4404
+"LGES-IDF2-2960S48-01" "Gi1/0/19" - 4405 - 4405
+"LGES-IDF2-2960S48-01" "Gi1/0/15" - Unknown - 4409
+"ES-MDF-2960X-01" "Gi1/0/46" - Way, Janine - 4511
+"LGES-IDF2-2960S48-01" "Gi1/0/47" - Chance, Renee - 4512
+"LGES-IDF2-2960S48-01" "Gi1/0/41" - Crossman, Bridget - 4513
+"LGES-IDF2-2960X-03" "Gi1/0/48" - Library Breakout Room - 4514
+"LGES-IDF2-2960S48-01" "Gi1/0/11" - White, Blake - 4521
+"LGES-IDF2-2960S48-01" "Gi1/0/40" - Usher, Heather - 4522
+"LGES-IDF2-2960S48-01" "Gi1/0/1" - Gym Boys - 4523
+"LGES-IDF2-2960S48-01" "Gi1/0/43" - Gym Girls - 4524
+"ES-MDF-2960X-01" "Gi1/0/8" - Schenk, Kenneth - 4531
+"ES-MDF-2960X-01" "Gi1/0/16" - Mason, Susan - 4532
+"LGES-MDF-2960S48-01" "Gi1/0/1" - Little Theater - 4533
+"LGES-MDF-2960S48-01" "Gi1/0/37" - Darbee-Laurin, Alison - 4541
+"LGES-MDF-2960S48-01" "Gi1/0/17" - Powers, Yvonne - 4542
+"LGES-IDF1-2960S48-01" "Gi1/0/40" - Whiting, Lynsey - 4543
+"LGES-IDF1-2960S48-01" "Gi1/0/4" - Intermediate 1 Breakout Rm - 4545
+"LGES-IDF1-2960S48-01" "Gi1/0/41" - Cross/Larson - 4546
+"LGES-MDF-2960S48-01" "Gi1/0/40" - Price, Katy - 4548
+"LGES-IDF2-2960S48-01" "Gi1/0/48" - Patrol Office - 4603
+"LGES-IDF2-2960S48-01" "Gi1/0/18" - Basement - 4608
+"LGES-MDF-2960S48-01" "Gi1/0/48" - Zivica, Gail - 4609
+"HS-MDF-2960x-06" "Gi1/0/47" - CSE Conference - 555

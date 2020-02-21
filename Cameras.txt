@@ -1,0 +1,53 @@
+"10.15.1.31" "GigabitEthernet0/24" - Gym Corr Facing Team RM
+"10.15.1.31" "GigabitEthernet0/22" - Gym Corr Trophy Case
+"10.15.1.31" "GigabitEthernet0/23" - Gym Staircase
+"10.15.1.12" "GigabitEthernet1/0/43" - Ground FLR South Exit
+"10.15.1.12" "GigabitEthernet1/0/45" - Ground FLR West Hall
+"10.15.1.12" "GigabitEthernet1/0/47" - Ground FLR Exit Ramp DR
+"10.15.1.41" "GigabitEthernet3/0/26" - 1ST FLR Main Entrance
+"10.15.1.41" "GigabitEthernet3/0/28" - 1ST FLR North Hall
+"10.15.1.41" "GigabitEthernet3/0/30" - 1ST FLR South Hall
+"10.15.1.41" "GigabitEthernet3/0/42" - 1ST FLR North Hall Dr
+"10.15.1.41" "GigabitEthernet3/0/32" - 1ST FLR West Hall
+"10.15.1.41" "GigabitEthernet3/0/34" - 1ST FLR West Hall Stairs
+"10.15.1.72" "GigabitEthernet1/0/21" - 1ST FLR North West Entra
+"10.15.1.41" "GigabitEthernet3/0/40" - 1ST FLR Cafeteria South
+"10.15.1.41" "GigabitEthernet3/0/36" - 1ST FLR Cafeteria North
+"10.15.1.41" "GigabitEthernet3/0/38" - Auditorium Lobby
+"10.15.1.52" "GigabitEthernet1/0/43" - 2ND FLR South Hall
+"10.15.1.52" "GigabitEthernet1/0/41" - 2ND FLR North Hall
+"10.15.1.52" "GigabitEthernet1/0/42" - 2ND FLR West Hall
+"10.15.1.21" "GigabitEthernet1/0/29" - Basement
+"10.15.1.21" "GigabitEthernet1/0/30" - 1ST FLR Stairway
+"10.15.1.41" "GigabitEthernet3/0/48" - HS Library/IT Office
+"10.15.1.52" "GigabitEthernet1/0/37" - HS Gym Entrance
+"10.15.1.52" "GigabitEthernet1/0/38" - HS Main Entrance
+"10.15.1.41" "GigabitEthernet3/0/22" - Exterior High School Gym
+"10.15.1.41" "GigabitEthernet3/0/44" - HS Bus Entrance
+"10.15.1.41" "GigabitEthernet3/0/46" - HS Mountain DR Lot
+"10.15.1.52" "GigabitEthernet1/0/39" - 2nd Floor South Stairs
+"10.15.101.2" "GigabitEthernet1/0/21" - Main Entrance Interior
+"10.15.101.21" "GigabitEthernet1/0/32" - Library Entrance Int.
+"10.15.101.21" "GigabitEthernet1/0/36" - Library Entrance Int.
+"10.15.101.21" "GigabitEthernet1/0/35" - Receiving Interior
+"10.15.101.21" "GigabitEthernet1/0/31" - K Entrance Interior
+"10.15.101.21" "GigabitEthernet1/0/29" - K Hallway
+"10.15.101.11" "GigabitEthernet1/0/8" - Primary Hall to Lobby
+"10.15.101.11" "GigabitEthernet1/0/7" - INT 1 to Primary Hallway
+"10.15.101.11" "GigabitEthernet1/0/6" - Int II to Int I Hallway
+"10.15.101.11" "GigabitEthernet1/0/5" - INT II to Lobby Hallway
+"10.15.101.21" "GigabitEthernet1/0/30" - Library Entrance EXT.
+"10.15.101.21" "GigabitEthernet1/0/34" - Kindergarten Ent. EXT.
+"10.15.101.21" "GigabitEthernet1/0/33" - K/Primary Entrance EXT.
+"10.15.101.11" "GigabitEthernet1/0/12" - Primary Playground Ext.
+"10.15.101.11" "GigabitEthernet1/0/11" - Primary/Int I ENT Play
+"10.15.101.11" "GigabitEthernet1/0/13" - INT I Playground
+"10.15.101.11" "GigabitEthernet1/0/10" - INT I/II PLAYGROUND
+"10.15.101.11" "GigabitEthernet1/0/9" - INT II PLAYGRD/FRNT ENT
+"10.15.101.2" "GigabitEthernet1/0/22" - EXT Cafe Entrance
+"10.15.101.11" "GigabitEthernet1/0/45" - Corridor Lockers
+"10.15.101.11" "GigabitEthernet1/0/42" - Cafeteria
+"10.15.101.21" "GigabitEthernet1/0/24" - EXT Bus Loop
+"10.15.101.21" "GigabitEthernet1/0/23" - EXT Playground
+"10.15.101.11" "GigabitEthernet1/0/44" - Playground 1
+"10.15.101.11" "GigabitEthernet1/0/43" - Playground 2

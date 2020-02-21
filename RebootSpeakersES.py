@@ -55,6 +55,11 @@ restart_port("Gi1/0/21") # ES Kitchen - .4
 restart_port("Gi1/0/22") # ES Nurse - .4
 restart_port("Gi1/0/23") # Cafeteria Conference Room - .4
 restart_port("Gi1/0/24") # Primary P305 - .4
+restart_port("Gi1/0/27") # ES Zone 1 - Hallways - .4
+restart_port("Gi1/0/29") # ES Zone 2 - Outside - .4
+restart_port("Gi1/0/31") # ES Zone 3 - Cafeteria - .4
+restart_port("Gi1/0/33") # ES Zone 4 - Library - .4
+restart_port("Gi1/0/35") # ES Zone 5 - Outside - .4
 restart_port("Gi1/0/36") # Primary Right Room - .4
 restart_port("Gi1/0/37") # ES Copy Room - .4
 restart_port("Gi1/0/38") # ES Main OFfice - .4
